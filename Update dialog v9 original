@@ -1,0 +1,7 @@
+{
+  "version": "2.0",
+  "title": "Nueva versión importante",
+  "subtitle": "- Se ha rediseñado completamente la interfaz de usuario para una experiencia más fluida y moderna.\n- Nueva función: modo oscuro automático basado en la configuración del sistema.\n- Optimización del rendimiento en dispositivos con poca memoria.\n- Se corrigió un problema crítico que provocaba cierres inesperados al iniciar sesión.\n- Mejora en la velocidad de carga de datos.\n- Integración con nuevas API para mayor compatibilidad.\n- Ahora puedes personalizar las notificaciones desde los ajustes de la app.\n- Corrección de errores menores en la navegación.\n- Soporte completo para Android 14 y versiones futuras.\n- Traducciones actualizadas para español, inglés y portugués.\n- Se ha mejorado el sistema de actualizaciones para ser más eficiente.\n- Gracias por usar nuestra app. Tu feedback es importante.",
+  "update_url": "https://play.google.com/store/apps/details?id=com.tuapp.paquete",
+  "show_close_button": true
+}
